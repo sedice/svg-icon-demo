@@ -1,8 +1,9 @@
 <template>
   <div class="wrapper">
-    <SvgIcon name="" color="primary" size="large"></SvgIcon>
+    <SvgIcon name="home" color="primary" size="large"></SvgIcon>
     <SvgIcon name="setting" color="success" size="small"></SvgIcon>
-    <SvgIcon name="subdir-home" color="error" :size="30"></SvgIcon>
+    <SvgIcon name="sub-home" color="success" size="small"></SvgIcon>
+    <svg-icon name="address" />
   </div>
 </template>
 
